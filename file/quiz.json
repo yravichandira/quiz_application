@@ -1,0 +1,104 @@
+{
+   "results":[
+      {
+         "question":"Which of the following sports is not part of the triathlon?",
+         "correct_answer":"Horse-Riding",
+         "incorrect_answers":[
+            "Cycling",
+            "Horse-Riding",
+            "Swimming",
+            "Running"
+         ]
+      },
+      {
+         "question":"In golf, what name is given to a hole score of two under par?",
+         "correct_answer":"Eagle",
+         "incorrect_answers":[
+            "Eagle",
+            "Birdie",
+            "Bogey",
+            "Albatross"
+         ]
+      },
+      {
+         "question":"Which English football club has the nickname &#039;The Foxes&#039;?",
+         "correct_answer":"Leicester City",
+         "incorrect_answers":[
+            "Northampton Town",
+            "Bradford City",
+            "West Bromwich Albion",
+            "Leicester City"
+         ]
+      },
+      {
+         "question":"The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+         "correct_answer":"August 21",
+         "incorrect_answers":[
+            "August 23",
+            "August 19",
+            "August 21",
+            "August 17"
+         ]
+      },
+      {
+         "question":"Which country will host the 2020 Summer Olympics?",
+         "correct_answer":"Japan",
+         "incorrect_answers":[
+            "China",
+            "Japan",
+            "Australia",
+            "Germany"
+         ]
+      },
+      {
+         "question":"How many points did LeBron James score in his first NBA game?",
+         "correct_answer":"25",
+         "incorrect_answers":[
+            "19",
+            "25",
+            "69",
+            "41"
+         ]
+      },
+      {
+         "question":"Which team has won the most Stanley Cups in the NHL?",
+         "correct_answer":"Montreal Canadians",
+         "incorrect_answers":[
+            "Chicago Blackhawks",
+            "Toronto Maple Leafs",
+            "Detroit Red Wings",
+            "Montreal Canadians"
+         ]
+      },
+      {
+         "question":"When was the first official international game played?",
+         "correct_answer":"1872",
+         "incorrect_answers":[
+            "1872",
+            "1880",
+            "1863",
+            "1865"
+         ]
+      },
+      {
+         "question":"In bowling, what is the term used for getting three consecutive strikes?",
+         "correct_answer":"Turkey",
+         "incorrect_answers":[
+            "Flamingo",
+            "Birdie",
+            "Turkey",
+            "Eagle"
+         ]
+      },
+      {
+         "question":"Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+         "correct_answer":"Roger Federer",
+         "incorrect_answers":[
+            "Bill Tilden",
+            "Roger Federer",
+            "Boris Becker",
+            "Pete Sampras"
+         ]
+      }
+   ]
+}

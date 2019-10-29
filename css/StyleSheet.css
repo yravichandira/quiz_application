@@ -1,0 +1,53 @@
+body {
+    font-family: Helvetica;
+    color : white;
+    background-color:   #b3b300;
+    -webkit-appearance: none;
+}
+
+div {
+    font-style: italic;
+    text-align: center;
+}
+
+h1, h3 {
+    padding: 0px;
+}
+
+.container {
+    width: 800px;
+    border: 0.5px solid;
+    margin: 0 auto;
+    box-shadow:  15px 15px 15px 15px #888888;
+}
+
+label {
+    text-align : left;
+}
+
+
+button {
+    border: none;
+    font-size: 16px;
+}
+
+input {
+    float: left;
+}
+
+
+#question {
+    width : 400px;
+    height : 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#question h2 {
+    margin-top : 80px;
+}
+
+#question_parent { 
+    border-radius: 25px ;
+    width : 600px;
+}
